@@ -1,2 +1,3 @@
 # final-assigment
-final assignment
+Github is COOL!
+
